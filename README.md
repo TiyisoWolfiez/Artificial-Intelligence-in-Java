@@ -13,7 +13,7 @@ This project implements **Simulated Annealing** and **Tabu Search** algorithms t
 To compile the project, navigate to the project directory and run the following command:
 
 ```sh
-javac -d out *.java
+javac -d out src/*.java
 ```
 
 ### 🚀 Running Program
@@ -21,6 +21,24 @@ To run the program, navigate to the `out` directory and run the following comman
 
 ```sh
 java Main
+```
+### navigate to the `out` directory and run the following command:
+
+```sh
+cd out
+```
+
+### 📦 Creating an Executable JAR
+To create an executable JAR file:
+
+```sh
+jar cfe TSPSolver.jar Main *.class
+```
+
+### 🏃 Running the JAR
+To run the program from the JAR file:
+```sh
+java -jar TSPSolver.jar
 ```
 
 ## 📝 Output
