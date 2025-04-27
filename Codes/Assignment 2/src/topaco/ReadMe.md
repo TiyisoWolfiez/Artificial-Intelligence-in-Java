@@ -84,7 +84,7 @@ java -jar topaco.jar
 ### You should expect to see something like this:
 ![Main Application Interface](screenshots/Main-Interface.png)
 
-### Example Solution after setting Parameter set-up you'll hit `Run ACO`:
+### Example Solution after Parameter set-up you'll hit `Run ACO`:
 ![Example TOP Solution](screenshots/example-solution.png)
 
 ## Authors
