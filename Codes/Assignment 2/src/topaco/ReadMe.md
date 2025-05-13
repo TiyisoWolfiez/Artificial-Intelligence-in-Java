@@ -1,5 +1,8 @@
 # Ant Colony Optimization (ACO) for the TOP Problem
 
+### Example Solution after Parameter set-up you'll hit `Run ACO`:
+![Example TOP Solution](screenshots/example-solution.png)
+
 ## Overview
 This program solves a variant of the Team Orienteering Problem (TOP) using an Ant Colony Optimization (ACO) algorithm. The goal is to maximize the total score collected by multiple vehicles, each starting and ending at a depot, under a maximum travel distance constraint.
 
@@ -83,9 +86,6 @@ java -jar topaco.jar
 
 ### You should expect to see something like this:
 ![Main Application Interface](screenshots/Main-Interface.png)
-
-### Example Solution after Parameter set-up you'll hit `Run ACO`:
-![Example TOP Solution](screenshots/example-solution.png)
 
 ## Authors
 Developed by: [Tiyiso]
